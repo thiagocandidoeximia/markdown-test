@@ -1,0 +1,14 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - 0001-receivers-storage-decision.md
+  - 0002-receivers-anti-corrupcao.md
+  - 0003-receivers-form-validation.md
+  - 0004-receivers-template-base.md
+  - 0005-messages-broker.md
+  - 0006-database-technologies.md
+  - 0007-tools-of-observability.md
+  - 0008-job-scheduler-technologies.md
